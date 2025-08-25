@@ -19,7 +19,7 @@ conda activate csnode
 
 ## Usage
 
-This repository provides simulation examples for both GLV-CSNODE and Rep-CSNODE frameworks:
+This repository provides simulation examples for both glvCSNODE and repCSNODE frameworks:
 
 - **`glvCSNODE/`**: Contains simulation examples using the Generalized Lotka-Volterra (GLV) model with cross-sectional data-informed NeuralODE
 - **`repCSNODE/`**: Contains simulation examples using the Replicator dynamics model with cross-sectional data-informed NeuralODE
